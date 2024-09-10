@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881306058826",
+    "project_id": "sharemybike-3b203",
+    "storage_bucket": "sharemybike-3b203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881306058826:android:f28ce7dbf6971b78e766b3",
+        "android_client_info": {
+          "package_name": "es.riberadeltajo.sharemybike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881306058826-6ull8p9beb59k1rp5t11l06joh0g1tde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.riberadeltajo.sharemybike",
+            "certificate_hash": "0e9608c88c6d61a47991c2056cbf6409a10cd985"
+          }
+        },
+        {
+          "client_id": "881306058826-13hrggmjb7f8leivrgapg59gov3ub2ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuYupy2NWAyAndtJXetvN2ADbnxL2mXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881306058826-13hrggmjb7f8leivrgapg59gov3ub2ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
