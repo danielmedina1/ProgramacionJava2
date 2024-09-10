@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881306058826",
+    "project_id": "sharemybike-3b203",
+    "storage_bucket": "sharemybike-3b203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881306058826:android:fb5f43a2541cffcfe766b3",
+        "android_client_info": {
+          "package_name": "es.riberadeltajo.practica_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuYupy2NWAyAndtJXetvN2ADbnxL2mXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

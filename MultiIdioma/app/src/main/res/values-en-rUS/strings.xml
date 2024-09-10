@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="estadoLlamada" id="estadoLlamada">Call Walter White</string>
+</resources>
